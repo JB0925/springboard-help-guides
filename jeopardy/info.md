@@ -1,0 +1,4 @@
+So since the error mentioned DNS, I ran dig +short jservice.io, which is a command that will give you back the just the IP address(es) associated with the domain name. At present, jservice.io is not resolving to anything, meaning there is no DNS entry for jservice.io at the moment. So they will need to update that first. Or maybe it has been permanently taken down.
+This api is pretty notorious for being unavailable for periods of time, and then coming back up eventually. However, I heard from someone else today about this, and they say it’s been down since before Christmas.
+I found this link below. Haven’t used it other than to click on the two endpoints at the bottom to see that they worked. You might give that a shot. Rithm school is closely related to Springboard.
+[Link](https://github.com/rithmschool/jeopardy-api) to a working Jeopardy API.
